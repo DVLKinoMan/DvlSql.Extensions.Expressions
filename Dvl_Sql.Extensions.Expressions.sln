@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dvl_Sql.Extensions.Expressions", "Dvl_Sql.Extensions.Expressions\Dvl_Sql.Extensions.Expressions.csproj", "{34577B15-4AC1-493B-971E-FC7DFA07940F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34577B15-4AC1-493B-971E-FC7DFA07940F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34577B15-4AC1-493B-971E-FC7DFA07940F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34577B15-4AC1-493B-971E-FC7DFA07940F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34577B15-4AC1-493B-971E-FC7DFA07940F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746FBE0C-0B4F-4DA0-B4CF-21DA492B1F05}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>1.3.0</Version>
+    <Authors>David Dvali</Authors>
+    <PackageId>DvlSql.Extensions.Expressions</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DvlSql" Version="1.3.0" />
+  </ItemGroup>
+
+</Project>
